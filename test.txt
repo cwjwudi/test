@@ -3,3 +3,6 @@ aaaaaaaa
 
 edit by master
 new conflict
+
+
+Creating a new branch is quick & simple.
