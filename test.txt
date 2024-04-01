@@ -2,4 +2,4 @@ sdaa
 aaaaaaaa
 
 edit by master
-new content
+new conflict
